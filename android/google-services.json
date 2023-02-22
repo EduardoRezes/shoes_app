@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1025652143398",
+    "firebase_url": "https://gerenciador-401eb-default-rtdb.firebaseio.com",
+    "project_id": "gerenciador-401eb",
+    "storage_bucket": "gerenciador-401eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025652143398:android:fa294c225a8a7515053de7",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025652143398-v2sr0qv762j1sprguubn140vtf1c7l7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRy1Pi7jv5sr0O1ejTt1vh9TBQDeV4gKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025652143398-v2sr0qv762j1sprguubn140vtf1c7l7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
