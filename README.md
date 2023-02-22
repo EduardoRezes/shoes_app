@@ -1,16 +1,16 @@
-# app_shopping
 
-A new Flutter project.
+# App Shoes Shop
 
-## Getting Started
+ShoesApp é um aplicativo de compras de tênis desenvolvido com base nos principais widgets do Flutter. Com o ShoesApp, você pode comprar facilmente os tênis que deseja, usando recursos modernos e intuitivos para uma experiência de compra de alta qualidade.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demonstração
+
+Insira um gif ou um link de alguma demonstração
+
+
+## Autores
+
+- [@EduardoRezes](https://www.github.com/EduardoRezes)
